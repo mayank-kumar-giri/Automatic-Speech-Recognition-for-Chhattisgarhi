@@ -4,7 +4,8 @@
   <li>20 words recognizer for Chhattisgarhi using MFCC and DTW</li>
   <li>58 words recognizer for Chhattisgarhi using MFCC and DTW</li>
   <li>58 words recognizer for Chhattisgarhi using the following features:
-    <br>    
+    <br>
+    <br>
    <ul>
       <li>MFCC</li>
       <li>Mel Spectrogram</li>
