@@ -4,8 +4,8 @@
   <li>20 words recognizer for Chhattisgarhi using MFCC and DTW</li>
   <li>58 words recognizer for Chhattisgarhi using MFCC and DTW</li>
   <li>58 words recognizer for Chhattisgarhi using the following features:
-    
-    
+    <br>
+    <br>
    <ul>
       <li>MFCC</li>
       <li>Mel Spectrogram</li>
@@ -14,7 +14,7 @@
       <li>Spectral - Contrast</li>
    </ul>
     
-   Which gives 193 features for each sample. We used 2088 samples for Training and 232 samples for testing out of 2320 total samples        collected from 20 speakers, where each of the 58 words was recorded twice for each subject.
+   Which gives 193 features for each sample. We used 2088 samples for Training and 232 samples for testing out of 2320 total samples        collected from 20 speakers, where each of the 58 words was recorded twice for each subject.<br>
    (58 words * 2 subjects * 2 iterations= 2320 samples).
 </li>
 </ul>
