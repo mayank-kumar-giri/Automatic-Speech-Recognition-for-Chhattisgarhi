@@ -25,4 +25,4 @@
 present in the "Report_and_Slides" directory.
 
 ### To view the presentation slides, click on the following link: <br>
-https://mayank-kumar-giri.github.io/Speech-Recognition-Small-Vocabulary-Chhattisgarhi/Report_and_Slides/Slides-ASR-for-Chhattisgarhi.html
+https://mayank-kumar-giri.github.io/Automatic-Speech-Recognition-for-Chhattisgarhi/Report_and_Slides/Slides-ASR-for-Chhattisgarhi.html
