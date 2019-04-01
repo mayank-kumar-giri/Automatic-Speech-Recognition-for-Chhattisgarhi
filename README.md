@@ -1,4 +1,4 @@
-# Speech-Recognition-Small-Vocabulary-Chhattisgarhi
+# Automatic Speech Recognition for Chhattisgarhi
 <ul>
   <li>5 words recognizer for Chhattisgarhi using MFCC and DTW</li>
   <li>20 words recognizer for Chhattisgarhi using MFCC and DTW</li>
@@ -20,3 +20,9 @@
 </ul>
 
 ## For more details, feel free to go through the report or the slides.
+### To read the report, click on the file:<br>
+"Automatic_Speech_Recognition_for_Chhattisgarhi.pdf"
+present in the "Report_and_Slides" directory.
+
+### To view the presentation slides, click on the following link: <br>
+https://mayank-kumar-giri.github.io/Speech-Recognition-Small-Vocabulary-Chhattisgarhi/Report_and_Slides/Slides-ASR-for-Chhattisgarhi.html
